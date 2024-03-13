@@ -1,6 +1,6 @@
 <div align= "center">
 
- ### potafolio: https://devjhojan.github.io/MyProfile/
+ ### **Portafolio**: https://devjhojan.github.io/MyProfile/
 
 # Hola, mi nombre es Jhojan 
 ![GitHub Followers](https://img.shields.io/github/followers/DevJhojan?style=social) 
