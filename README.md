@@ -1,6 +1,7 @@
-### potafolio: <https://devjhojan.github.io/MyProfile/>
 
 <div align="center">
+
+[![Portafolio Actual|10%](./Image/MyProfile.png)](https://devjhojan.github.io/MyProfile/)
 
 # Hola, Soy DevJhojan
 
