@@ -48,46 +48,41 @@ cada proyecto :fire:**
 
 ---
 
+## Herramientas en las que me Especializo actualmente 
+[![Angular](/Image/AngularLogo.png)](https://github.com/DevJhojan/ProjectsAngular)
+![Angular Material](https://img.shields.io/badge/Angular_Material-%232C8EBB.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](/Image/bootstrap-5.svg)
+![PrimeFlex](/Image/PrimeFlexLogo.svg)
 
+<div align="left">
 
-## Tecnologías y Frameworks con projectos hechos o compartidos
+*Herramientas que utilizo diario*
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- [![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](URL_DE_TU_PROYECTO_VSCODE)
+  
 
-
-### Frontend
-
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/DevJhojan/ProjectsAngular)
-
-## Herramientas
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-[![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](URL_DE_TU_PROYECTO_NEOVIM)
-[![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](URL_DE_TU_PROYECTO_VSCODE)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](URL_DE_TU_PROYECTO_VISUAL_STUDIO)
+**Herramientas que utilizo casualmente**
+- [![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](URL_DE_TU_PROYECTO_NEOVIM)
+- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## Estudiando actualemente
+*Estudiando actualemente*
 
-[![English](https://img.shields.io/badge/English-%230A0A0A.svg?style=for-the-badge&logo=english&logoColor=white)](URL_DE_TU_PROYECTO_ENGLISH)
-
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
+- [![English](https://img.shields.io/badge/English-%230A0A0A.svg?style=for-the-badge&logo=english&logoColor=white)](URL_DE_TU_PROYECTO_ENGLISH)
+- ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
-## Sistemas operativos
 
-[![Arch](https://img.shields.io/badge/Arch%20Linux-%1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)](https://github.com/DevJhojan/space_files)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+*Sistemas operativos*
+- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](URL_DE_TU_PROYECTO_Linux)
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Con Conocimiento
-
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](URL_DE_TU_PROYECTO_JAVA)
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server/)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+*Con Conocimiento*
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   
   
+</div>
