@@ -1,13 +1,8 @@
-
-<<<<<<< HEAD
-<div align="center">
-=======
- ### **Portafolio**: https://devjhojan.github.io/MyProfile/
->>>>>>> d0f277e35419ab21720d31344ec84f8bafa6c258
-
 ### potafolio: <https://devjhojan.github.io/MyProfile/>
 
-# Hola, mi nombre es Jhojan
+<div align="center">
+
+# Hola, Soy DevJhojan
 
 ![GitHub Followers](https://img.shields.io/github/followers/DevJhojan?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/DevJhojan?style=social)
