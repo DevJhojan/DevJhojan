@@ -1,5 +1,7 @@
 
 # Hello I'm DevJhojan :wave:
+*Herramientas que utilizo diario:*
+![Portafolio Actual|10%](./Image/MyProfile.png)
 
 > Mi protafoio actual => [Aqui](https://devjhojan.github.io/MyProfile/)
 
@@ -12,8 +14,7 @@
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/DevJhojan?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/DevJhojan?style=social) -->
 
-*Herramientas que utilizo diario:*
-![Portafolio Actual|10%](./Image/MyProfile.png)
+
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCxIGNpsrjzWgY1Eyai1by3A?style=social)](https://www.youtube.com/channel/UCxIGNpsrjzWgY1Eyai1by3A)
 [![Facebook Profile](https://img.shields.io/badge/Facebook-8-100089324563350?style=social&logo=facebook)](https://www.facebook.com/profile.php?id=100089324563350)
 [![Linkedin Profile](https://img.shields.io/badge/LINKEDIN-40-grey?style=social&logo=linkedin)](https://www.linkedin.com/in/jhojan-d-toro/)
@@ -21,8 +22,8 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhojanXX&theme=radical)](https://github.com/DevJhojanXX/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevJhojanXX&layout=compact&theme=radical)](https://github.com/DevJhojanXX/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhojan&theme=radical)](https://github.com/DevJhojan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevJhojan&layout=compact&theme=radical)](https://github.com/DevJhojan/github-readme-stats)
 
 ---
 
