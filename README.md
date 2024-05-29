@@ -43,7 +43,7 @@
 
 
 ---
-##  Estados de este repositorio
+##  Estatus de este repositorio
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhojan&theme=dark)](https://github.com/DevJhojan/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevJhojan&layout=compact&theme=dark)](https://github.com/DevJhojan/github-readme-stats) -->
