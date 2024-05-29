@@ -22,11 +22,15 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhojan&theme=dark)](https://github.com/DevJhojan/github-readme-stats)
+*Con Conocimiento en:*
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevJhojan&layout=compact&theme=dark)](https://github.com/DevJhojan/github-readme-stats) -->
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJhojan&langs_count=8&theme=dark)](https://github.com/DevJhojan)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -35,12 +39,12 @@
 [![English](https://img.shields.io/badge/English-%230A0A0A.svg?style=for-the-badge&logo=english&logoColor=white)](URL_DE_TU_PROYECTO_ENGLISH)
 <!-- ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) -->
 
+---
+##  Estados de este repositorio
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhojan&theme=dark)](https://github.com/DevJhojan/github-readme-stats)
 
-*Con Conocimiento en:*
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DevJhojan&layout=compact&theme=dark)](https://github.com/DevJhojan/github-readme-stats) -->
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJhojan&langs_count=8&theme=dark)](https://github.com/DevJhojan)
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+---
