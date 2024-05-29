@@ -38,6 +38,9 @@
 
 [![English](https://img.shields.io/badge/English-%230A0A0A.svg?style=for-the-badge&logo=english&logoColor=white)](URL_DE_TU_PROYECTO_ENGLISH)
 <!-- ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) -->
+---
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=DevJhojan&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+
 
 ---
 ##  Estados de este repositorio
