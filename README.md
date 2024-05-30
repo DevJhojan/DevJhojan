@@ -1,6 +1,5 @@
 
 # Hello I'm DevJhojan :wave:
-*Herramientas que utilizo diario:*
 ![Portafolio Actual|10%](./Image/MyProfile.png)
 
 > Mi protafoio actual => [Aqui](https://devjhojan.github.io/MyProfile/)
