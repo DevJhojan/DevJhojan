@@ -17,9 +17,8 @@
 
 ## Conecta conmigo
 
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxIGNpsrjzWgY1Eyai1by3A?style=social)](https://www.youtube.com/channel/UCxIGNpsrjzWgY1Eyai1by3A)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DevJhojan-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jhojan-d-toro/)
-[![TikTok](https://img.shields.io/badge/TikTok-@devtorito-black?style=social&logo=tiktok)](https://www.tiktok.com/@devtorito)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxIGNpsrjzWgY1Eyai1by3A?style=for-the-badge&label=YouTube&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/channel/UCxIGNpsrjzWgY1Eyai1by3A)
+[![TikTok](https://img.shields.io/badge/TikTok-Sígueme-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@devtorito)
 
 ---
 
@@ -27,12 +26,12 @@
 
 **Lenguajes & Frameworks**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-0A0A0A?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=0A0A0A)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0A0A0A)
+![MySQL](https://img.shields.io/badge/-MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0A0A0A)
+![SQLite](https://img.shields.io/badge/-SQLite-0A0A0A?style=for-the-badge&logo=sqlite&logoColor=0CC0F0&labelColor=0A0A0A)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-0A0A0A?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927&labelColor=0A0A0A)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0A0A0A)
 
 ## Proyectos destacados
 
