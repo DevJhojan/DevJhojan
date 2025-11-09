@@ -84,7 +84,22 @@
 
 ## Estatus de este repositorio
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJhojan&theme=dark)](https://github.com/DevJhojan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJhojan&langs_count=8&theme=dark)](https://github.com/DevJhojan)
+<div align="center">
+  <table>
+    <tr>
+      <td style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:18px 22px;text-align:center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=DevJhojan&theme=dark&show_icons=true&hide_border=true" alt="Estadísticas de GitHub">
+        <p><strong>Actividad reciente</strong></p>
+        <p style="color:#c9d1d9;">Contribuciones, commits y métricas generales del repositorio.</p>
+      </td>
+      <td style="width:24px;background:transparent;border:none;"></td>
+      <td style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:18px 22px;text-align:center;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJhojan&langs_count=8&theme=dark&hide_border=true" alt="Lenguajes más usados">
+        <p><strong>Lenguajes destacados</strong></p>
+        <p style="color:#c9d1d9;">Resumen de tecnologías con más commits en los últimos proyectos.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
