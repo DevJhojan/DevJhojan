@@ -28,21 +28,11 @@
 **Lenguajes & Frameworks**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Frameworks, UI & utilidades**
-
-<p align="center">
-  <img src="./Image/AngularLogo.png" alt="Angular Logo" width="88">
-  <img src="./Image/bootstrap-5.svg" alt="Bootstrap 5" width="110">
-  <img src="./Image/PrimeFlexLogo.svg" alt="PrimeFlex" width="180">
-</p>
-
----
 
 ## Proyectos destacados
 
