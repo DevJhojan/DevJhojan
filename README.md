@@ -72,6 +72,7 @@
 ## Estudiando actualmente
 
 [![English](https://img.shields.io/badge/English-%230A0A0A.svg?style=for-the-badge&logo=english&logoColor=white)](https://www.efset.org/es/english-certificate/)
+[![Ing. Sistemas](https://img.shields.io/badge/Ing.%20Sistemas-0A0A0A?style=for-the-badge&logo=google-classroom&logoColor=white)](https://www.linkedin.com/in/jhojan-d-toro/)
 
 ---
 
